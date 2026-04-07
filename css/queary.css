@@ -1,0 +1,147 @@
+@media (max-width: 992px) {
+  .HMT-LOGO {
+    width: 75% !important;
+    height: auto;
+  }
+  .disc {
+    margin: 0px 0px !important;
+  }
+
+  .cstm-fontSize {
+    font-size: 34px !important;
+  }
+
+  .hero-sec {
+    padding-top: 55px !important;
+  }
+
+  .service-swiper {
+    padding: 10px !important;
+  }
+  .service-swiper {
+    gap: 16px !important;
+  }
+  .inner-content {
+    left: 10px !important;
+    bottom: 10px !important;
+    padding: 10px 25px !important;
+  }
+  .left-right-row::before {
+    width: 30% !important;
+  }
+  .small-image {
+    right: -40px !important;
+    bottom: -18px !important;
+    max-width: 211px;
+  }
+  .left-right-row::after {
+    width: 30% !important;
+  }
+  .bg-content {
+    left: -50px !important;
+    z-index: -1 !important;
+    top: -65px !important;
+  }
+  .count-span {
+    font-size: 40px !important;
+    font-weight: 600 !important;
+  }
+  .goal {
+    left: 0 !important;
+  }
+  .projects {
+    left: 0 !important;
+    height: 115px !important;
+  }
+}
+
+@media (max-width: 776px) {
+  .HMT-LOGO {
+    width: 100% !important;
+    height: auto;
+  }
+  .cstm-fontSize {
+    font-size: 36px !important;
+  }
+  .small-image {
+    right: -10px !important;
+    bottom: -18px !important;
+    max-width: 211px;
+  }
+  .left-right-row::before {
+    width: 20% !important;
+  }
+  .left-right-row::after {
+    width: 20% !important;
+  }
+  .bg-content {
+    left: -30px !important;
+    z-index: -1 !important;
+    top: -65px !important;
+  }
+  .count-span {
+    font-size: 32px !important;
+    font-weight: 500 !important;
+  }
+  .fix-hw {
+    height: 75px !important;
+    width: 75px !important;
+  }
+  .full-fluid-2 {
+    padding: 55px 0px !important;
+  }
+  .business-goal-sec {
+    padding: 55px 0px !important;
+  }
+  .Services-sec {
+    padding: 55px 0px !important;
+  }
+  .about-sec {
+    padding: 60px 0px 32px !important;
+  }
+  .members-sec {
+    padding: 55px 0px !important;
+  }
+  .review-sec {
+    padding: 55px 0px !important;
+  }
+
+  .projects {
+    height: 78px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .bg-content {
+    left: 0px !important;
+    z-index: -1 !important;
+    top: -40px !important;
+  }
+  .cstm-fontSize {
+    font-size: 30px !important;
+  }
+  .left-right-row::before {
+    width: 16% !important;
+    left: 84% !important;
+  }
+  .left-right-row::after {
+    width: 16% !important;
+  }
+  .shopNow-Btn {
+    padding: 8px 24px !important;
+    border: none;
+    transition: all 0.5s ease-in-out;
+  }
+  .HMT-LOGO {
+    width: 100% !important;
+    height: auto;
+  }
+  .projects {
+    height: 64px !important;
+  }
+}
+@media (max-width: 436px) {
+  .projects {
+    height: 48px !important;
+  }
+}
